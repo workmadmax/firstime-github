@@ -7,5 +7,5 @@ Entrega da versão simples do gêneses.
 
 
 ## Links Úteis
-[Digital Innovation One](https://digitalinnovation.one/)
-[Eduzz]https://www.eduzz.com/
+[Digital Innovation One](https://digitalinnovation.one/)<br/>
+[Eduzz](https://www.eduzz.com/)
